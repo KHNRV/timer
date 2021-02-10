@@ -1,0 +1,22 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timer1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KHNRV/timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KHNRV/timer/issues"
+  },
+  "homepage": "https://github.com/KHNRV/timer#readme",
+  "devDependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
